@@ -30,11 +30,11 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised 
 
 ### First-author Papers
 
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *Arxiv*, 2025. Code: Vision4Chart (GitHub).
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *Arxiv*, 2025.
 
-2. **On the Perception Bottleneck of VLMs for Chart Understanding.** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv*, 2025. Code: Universal_Truthfulness_Hyperplane (GitHub).
+2. **On the Perception Bottleneck of VLMs for Chart Understanding.** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv*, 2025. Code: Vision4Chart (GitHub).
 
-3. **On the Universal Truthfulness Hyperplane Inside LLMs.** Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*.
+3. **On the Universal Truthfulness Hyperplane Inside LLMs.** Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. Code: Universal_Truthfulness_Hyperplane (GitHub).
 
 ### Co-authored Papers
 
